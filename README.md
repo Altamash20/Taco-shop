@@ -11,7 +11,3 @@
 - If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
 
 - A favicon is already included. You'll need to add it in the head section of each page.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
